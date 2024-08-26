@@ -1,7 +1,6 @@
 ### Data Analyst Portfolio Project – Sales Management
 
-![dashboard1](dashboard1.png)
-![dashboard2](dashboard2.png)
+![gallery](gallery.png)
 
 ### Wymagania użytkownika
 W ramach tego projektu analizy danych, biznesowym celem było stworzenie raportu sprzedażowego dla kadry menedżerskiej. 
@@ -24,7 +23,22 @@ Poniżej znajdują się instrukcje SQL służące do czyszczenia i transformacji
 ### Data Model
 Poniżej znajduje się zrzut ekranu modelu danych po załadowaniu oczyszczonych i przygotowanych tabel do Power BI.
 Model danych pokazuje również, w jaki sposób tabela FACT_Budget została połączona z FACT_InternetSales oraz innymi niezbędnymi tabelami wymiarów (DIM).
+
 ![model](DATA_MODEL.png)
+
+###Podsumowanie 
+Gotowy pulpit zarządzania sprzedażą zawiera jedną stronę pełniącą funkcję dashboardu i przeglądu, oraz dwie dodatkowe strony skupiające się na łączeniu tabel, aby dostarczyć niezbędnych szczegółów i wizualizacji przedstawiających sprzedaż w czasie, według klientów oraz według produktów.
+
+###Zapraszam do pobrania pliku projektowego i wypróbowania dashboardu w Power Bi!
+Możesz pobrać plik [tutaj](project.pbix)
+
+![dashboard1](dashboard1.png)
+
+![dashboard2](dashboard2.png)
+
+![dashboard3](dashboard3.png)
+
+
 
 
 
