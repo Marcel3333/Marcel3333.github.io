@@ -31,8 +31,6 @@ Gotowy pulpit zarządzania sprzedażą zawiera jedną stronę pełniącą funkcj
 
 ![dashboard2](dashboard2.png)
 
-![dashboard3](dashboard3.png)
-
 ### Zapraszam do pobrania pliku projektowego i wypróbowania dashboardu w Power Bi!  
 Możesz pobrać [plik tutaj](project.pbix)
 
